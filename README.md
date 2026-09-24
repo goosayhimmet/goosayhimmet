@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I’m Goose 👋
+
+I’m a Cybersecurity graduate currently building my skills in cloud, DevOps, and cloud security. I’m working through the Learn to Cloud curriculum and using this GitHub to document my projects, labs, and progress along the way.
+
 
 <!--
 **goosayhimmet/goosayhimmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
