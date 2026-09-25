@@ -4,7 +4,7 @@ I’m a Cybersecurity graduate currently building my skills in cloud, DevOps, an
 
 Along with my current studies, I also work as Application Support for my company's Ruby-on-Rails software, Nitro.
 
-# My Socials
+## My Socials
 
 [LinkedIn](https://www.linkedin.com/in/goosay-himmet-b20410110/)
 
