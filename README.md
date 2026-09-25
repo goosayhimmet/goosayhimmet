@@ -2,6 +2,12 @@
 
 I’m a Cybersecurity graduate currently building my skills in cloud, DevOps, and cloud security. I’m working through the Learn to Cloud curriculum and using this GitHub to document my projects, labs, and progress along the way.
 
+Along with my current studies, I also work as Application Support for my company's Ruby-on-Rails software, Nitro.
+
+# My Socials
+
+[LinkedIn](https://www.linkedin.com/in/goosay-himmet-b20410110/)
+
 
 <!--
 **goosayhimmet/goosayhimmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
